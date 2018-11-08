@@ -1,4 +1,4 @@
-# block-comment-plus
+# handlebars-comment-plus
 
 Comment your handlebars template with {{!-- --}} block comments.
 
