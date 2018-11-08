@@ -1,7 +1,7 @@
 {
   "name": "handlebars-comment-plus",
   "main": "./lib/block-comment-plus.js",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Comment your handlebars template with {{!-- --}} block comments",
   "keywords": [
     "block comment"
