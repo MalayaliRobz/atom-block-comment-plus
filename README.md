@@ -14,11 +14,11 @@ Or using the settings view in atom.
 
 Mac:
 
-`cmd` + `shift` + `/`
+`cmd` + `alt` + `/`
 
 Windows / Linux:
 
-`ctrl` + `shift` + `/`
+`ctrl` + `alt` + `/`
 
 ## Features
 - Based on grammars at start and end points of selection
