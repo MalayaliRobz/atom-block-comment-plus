@@ -1,6 +1,6 @@
 # block-comment-plus
 
-Comment your code with block comments.
+Comment your handlebars code with {{!-- --}} block comments.
 
 ## Installation
 
@@ -14,25 +14,13 @@ Or using the settings view in atom.
 
 Mac:
 
-`cmd` + `alt` + `/`
+`cmd` + `shift` + `/`
 
 Windows / Linux:
 
-`ctrl` + `alt` + `/`
-
-## Supported languages so far
-
-- C-based languages
-- Python
-- Coffee Script
-- HTML
-- Markdown
-- Ruby
-- Elm
-- Julia
+`ctrl` + `shift` + `/`
 
 ## Features
 - Based on grammars at start and end points of selection
-- Handles embedded languages (such as PHP in HTML)
 - Multiple selections
 - uncomment when cursor is positioned inside a comment block.
