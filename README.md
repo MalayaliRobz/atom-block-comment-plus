@@ -1,6 +1,7 @@
 # handlebars-comment-plus
 
 Comment your handlebars template with {{!-- --}} block comments.
+Restart atom after installing...
 
 ## Installation
 
