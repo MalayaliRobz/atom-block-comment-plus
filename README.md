@@ -1,11 +1,11 @@
 # block-comment-plus
 
-Comment your handlebars code with {{!-- --}} block comments.
+Comment your handlebars template with {{!-- --}} block comments.
 
 ## Installation
 
 ```
-apm install block-comment-plus
+apm install handlebars-comment-plus
 ```
 
 Or using the settings view in atom.
