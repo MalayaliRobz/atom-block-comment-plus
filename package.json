@@ -1,7 +1,7 @@
 {
   "name": "handlebars-comment-plus",
   "main": "./lib/block-comment-plus.js",
-  "version": "0.5.1",
+  "version": "0.0.0",
   "description": "Comment your handlebars teplate with {{!-- --}} comments",
   "keywords": [
     "block comment"
